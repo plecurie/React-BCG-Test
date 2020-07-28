@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: steelblue;
+}
+
+h1 {
+  padding-top: 70px;
+  font-family: "Agency FB", cursive;
+  font-size: 50px;
+  color: aliceblue;
+}
+
+h2 {
+  padding-top: 5px;
+  font-family: "Agency FB", cursive;
+  font-size: 30px;
+  color: lightsteelblue;
+}
+
+h3 {
+  margin: 10px;
+  font-family: "Apple Color Emoji", cursive;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: "Agency FB", cursive;
+  font-size: 15px;
+}
+
+.container {
+  flex: 1;
+  width: auto;
+  padding: 10px;
+}
+
+.button {
+  border-radius: 15px;
+  margin: 1px;
+}
+
+
