@@ -32,10 +32,10 @@ const Ride = ({ ride }) => {
             </Alert>
 
             {!show &&
-            <Button key={ride.id} value={ride} variant='outline-light' className='button'  style={{backgroundColor: ride.distance > 2 ? 'red' : 'yellowgreen'}} onClick={() => setShow(true)}>
+            <Button key={ride.id} value={ride} variant='outline-light' className='button'  style={{backgroundColor: ride.distance > 2 ? 'rgba(100, 0, 0, 0.5)' : 'rgba(0, 0, 0, 0.5)'}} onClick={() => setShow(true)}>
                 <Badge variant="light">{ride.id}</Badge>
                 <h3> {ride.date}</h3>
-                <Badge variant="info">{ride.price} €</Badge>
+                <Badge variant="warning">{ride.price} €</Badge>
             </Button>
             }
         </>

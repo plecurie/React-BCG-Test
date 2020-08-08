@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="514e72da-8abf-405e-8eb6-7e77d805e597" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/taxi.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Ride.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ride.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RidesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RidesList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="564" />
-    <option name="y" value="-24" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1fnxzCXQIY0t9F1IPXWHV0hEoA6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -138,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595840837853</updated>
       <workItem from="1595840838993" duration="75564000" />
-      <workItem from="1596867942586" duration="1557000" />
+      <workItem from="1596867942586" duration="3888000" />
     </task>
     <servers />
   </component>
