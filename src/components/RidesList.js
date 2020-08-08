@@ -17,7 +17,7 @@ const RidesList = ({ rides }) => {
             <h2 align="center">Rides List</h2>
             <br/>
             <div align="center" className='container'>
-                <ButtonGroup vertical>
+                <ButtonGroup vertical style={{width: 360}}>
                     {rides.map((ride) => (
                         <Ride ride={ride}/>
                     ))}
